@@ -1,0 +1,2281 @@
+{
+    "lens_id": "",
+    "document_id": "g3ll8X-_iKGHU_CtlzZc",
+    "original_document_id": "g3ll8X-_iKGHU_CtlzZc",
+    "version": "27",
+    "lastChanged": "1617254563891",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "EVERGREEN_CARGO_SHIP"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Animations"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "EVERGREEN_CARGO_SHIP"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "Material__64"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "black"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "black_2"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "blue"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "gold"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "green"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "other_red"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "pink"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "red"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "white"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Materials",
+                        "yellow"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_1"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_10"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_11"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_2"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_3"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_4"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_5"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_6"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_7"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_8"
+                    ],
+                    [
+                        "EVERGREEN_CARGO_SHIP",
+                        "Meshes",
+                        "ship_9"
+                    ],
+                    [
+                        "Scripts"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1508884415036595:113880",
+                    "1510687041436767:18328"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cd06a5daf2d06ecb16c96a0cd4a66f25",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Stuck Ship",
+            "applicability": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Stairs.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Stairs.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1599160273384481:1180513"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1508885097330183:132242",
+                    "name": "\/Resources\/Resource148.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "175",
+                    "uid": "1511403648794329:290802",
+                    "name": "\/Resources\/Resource175.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1511403791848190:291597",
+                    "name": "\/Resources\/Resource176",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "180",
+                    "uid": "1588126265136998:230611",
+                    "name": "Files\/File30.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1588126265152155:230618",
+                    "name": "Files\/File32.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1599160273384481:1180513",
+                    "name": "Files\/File35",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "183",
+                    "uid": "1617220190182220:212963",
+                    "name": "Files\/File52.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "184",
+                    "uid": "1617220190213917:212981",
+                    "name": "Files\/File54.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "185",
+                    "uid": "1617220190238442:212999",
+                    "name": "Files\/File56.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1617220190266109:213017",
+                    "name": "Files\/File58.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1617220190290704:213035",
+                    "name": "Files\/File60.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1617220190319635:213049",
+                    "name": "Files\/File62.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1617220190348037:213067",
+                    "name": "Files\/File64.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1617220190377537:213085",
+                    "name": "Files\/File66.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "191",
+                    "uid": "1617220190413493:213103",
+                    "name": "Files\/File68.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "192",
+                    "uid": "1617220190445561:213121",
+                    "name": "Files\/File70.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1617220190471080:213139",
+                    "name": "Files\/File72.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1617220190479092:213149",
+                    "name": "Files\/File74",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1617220190527737:213168",
+                    "name": "Files\/File76",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1617220190572756:213191",
+                    "name": "Files\/File78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "197",
+                    "uid": "1617220190620778:213210",
+                    "name": "Files\/File80",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "198",
+                    "uid": "1617220190666396:213233",
+                    "name": "Files\/File82",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "199",
+                    "uid": "1617220190709767:213252",
+                    "name": "Files\/File84",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "200",
+                    "uid": "1617220190754651:213271",
+                    "name": "Files\/File86",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1617220190796140:213294",
+                    "name": "Files\/File88",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1617220190837327:213313",
+                    "name": "Files\/File90",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1617220190888264:213332",
+                    "name": "Files\/File92",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1617220190931485:213355",
+                    "name": "Files\/File94",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1617220191115681:213593",
+                    "name": "EVERGREEN_CARGO_SHIP",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507675612124687:16502",
+                "2": "1510687407760041:19246",
+                "3": "1510687744155854:20850",
+                "4": "1511403648788540:290784",
+                "5": "1520028516590214:738911",
+                "6": "1520377736560929:83996",
+                "7": "1617220191921249:213905",
+                "8": "1617220191921460:213907",
+                "9": "1617220191922857:213924",
+                "10": "1617220191923986:213941",
+                "11": "1617220191925528:213958",
+                "12": "1617220191926978:213975",
+                "13": "1617220191928848:213992",
+                "14": "1617220191930385:214009",
+                "15": "1617220191933579:214026",
+                "16": "1617220191936618:214043",
+                "17": "1617220191939995:214064",
+                "18": "1617220191942957:214081",
+                "19": "1617220219482845:220073"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.mesh"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.js"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.pvr"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.pvr"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.mesh"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.lsmat"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.jpeg"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.jpeg"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.jpeg"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.jpeg"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.hdr"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.pvr"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.pvr"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.mesh"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.mesh"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.mesh"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.mesh"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.mesh"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.mesh"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.mesh"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.mesh"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.mesh"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.mesh"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.mesh"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.mesh"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.mesh"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.mesh"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.mesh"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.mesh"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.mesh"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.mesh"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.mesh"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.mesh"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.mesh"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.mesh"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.lsmat"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.lsmat"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.lsmat"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.lsmat"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.lsmat"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.lsmat"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.lsmat"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.lsmat"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.lsmat"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.oprfb"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.obj"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.oprfb"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Scripts\/GroundGrid.js"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Scripts\/WorldObjectController.js"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Textures\/ground_grid.png"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Textures\/ground_grid_mask.png"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Meshes"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Meshes\/ground_grid_mesh.mesh"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Meshes\/touch_collision_cube.mesh"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Meshes\/plane.mesh"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Materials\/ground_grid.lsmat"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Materials\/touch_collision.lsmat"
+                    },
+                    {
+                        "k": "628",
+                        "v": "Textures\/speakeasy.hdr"
+                    },
+                    {
+                        "k": "7767",
+                        "v": "Materials\/Graph Matte Shadow.lsmat"
+                    },
+                    {
+                        "k": "12487",
+                        "v": "EVERGREEN_CARGO_SHIP.obj"
+                    },
+                    {
+                        "k": "12488",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials"
+                    },
+                    {
+                        "k": "12489",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/white.lsmat"
+                    },
+                    {
+                        "k": "12490",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/black.lsmat"
+                    },
+                    {
+                        "k": "12491",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/green.lsmat"
+                    },
+                    {
+                        "k": "12492",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/red.lsmat"
+                    },
+                    {
+                        "k": "12493",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/pink.lsmat"
+                    },
+                    {
+                        "k": "12494",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/blue.lsmat"
+                    },
+                    {
+                        "k": "12495",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/gold.lsmat"
+                    },
+                    {
+                        "k": "12496",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/yellow.lsmat"
+                    },
+                    {
+                        "k": "12497",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/other_red.lsmat"
+                    },
+                    {
+                        "k": "12498",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/Material__64.lsmat"
+                    },
+                    {
+                        "k": "12499",
+                        "v": "..\/AdditionalFiles\/EVERGREEN_CARGO_SHIP\/Materials\/black_2.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "879cb0642498053c2ba693ec0e360ce7"
+                    },
+                    {
+                        "k": "3",
+                        "v": "b206317794ec9fef285d8ab8c9bd8a27"
+                    },
+                    {
+                        "k": "5",
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    },
+                    {
+                        "k": "6",
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    },
+                    {
+                        "k": "7",
+                        "v": "5caef7ed1c5b0a1be6a193c4aed5df2e"
+                    },
+                    {
+                        "k": "8",
+                        "v": "10e4c4bef993f00d286e2d3b2c9ea35b"
+                    },
+                    {
+                        "k": "10",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "11",
+                        "v": "e9167dc2c6b4be6840fd00390a21b633"
+                    },
+                    {
+                        "k": "12",
+                        "v": "4649d59d58657e786eebaad58a052d2a"
+                    },
+                    {
+                        "k": "14",
+                        "v": "f87cea3293433035077995c7a80387fa"
+                    },
+                    {
+                        "k": "15",
+                        "v": "1c63152e08ea6683a3e3655b1347623f"
+                    },
+                    {
+                        "k": "16",
+                        "v": "dad206ce0af43d23ed80d7e468734813"
+                    },
+                    {
+                        "k": "19",
+                        "v": "935d9f93a6ee09ad7ce34d994c7fdc3f"
+                    },
+                    {
+                        "k": "21",
+                        "v": "d6706e60f0ea431467da735296bbc62e"
+                    },
+                    {
+                        "k": "23",
+                        "v": "821ba9ba366c1ddee522c9757a6683c2"
+                    },
+                    {
+                        "k": "24",
+                        "v": "83ccdbd156cc30a8439ca510cc9d604c"
+                    },
+                    {
+                        "k": "25",
+                        "v": "a0c9ec185adcfaf415840e029282116e"
+                    },
+                    {
+                        "k": "628",
+                        "v": "4d7f005d03d261c345055d08494ca2c4"
+                    },
+                    {
+                        "k": "7767",
+                        "v": "9c3b3ae6ce935b7eef552873e951ea93"
+                    },
+                    {
+                        "k": "12487",
+                        "v": "828d9a690fec67a63aeb6cbecb2ba02e"
+                    },
+                    {
+                        "k": "12489",
+                        "v": "83583cb21ec3f3768f9a30aac9ba3905"
+                    },
+                    {
+                        "k": "12490",
+                        "v": "e52bfb7c81805bc392b375c27174de07"
+                    },
+                    {
+                        "k": "12491",
+                        "v": "58cccb7f4a6056f03d9f577dabdeee39"
+                    },
+                    {
+                        "k": "12492",
+                        "v": "6fd259c2914ecf86adef03ee8048d999"
+                    },
+                    {
+                        "k": "12493",
+                        "v": "b8ad6330898cedf6ad11460843278601"
+                    },
+                    {
+                        "k": "12494",
+                        "v": "60c45e36ff1c21db1072c9735b409d38"
+                    },
+                    {
+                        "k": "12495",
+                        "v": "f6894b1a243d9ebf81dc328ea841f2c7"
+                    },
+                    {
+                        "k": "12496",
+                        "v": "59147c4f6fadb20ed025f0abcc513af5"
+                    },
+                    {
+                        "k": "12497",
+                        "v": "0123c12f86a38c76094c6bee8dd6d156"
+                    },
+                    {
+                        "k": "12498",
+                        "v": "e44e8cca80e1fa56fc5a1b7df97bce7b"
+                    },
+                    {
+                        "k": "12499",
+                        "v": "8e11103eb2355118babc547f72aa4b0d"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-03-31T12:56:01",
+                        "name": "Public",
+                        "hash": "1080a95a395cff0f8244c1a18fa838f8",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-03-31T12:51:00",
+                                "name": "Textures",
+                                "hash": "a0bcfd9507752e78d685bbac7231973c",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "speakeasy.hdr",
+                                        "hash": "4d7f005d03d261c345055d08494ca2c4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "ground_grid.png",
+                                        "hash": "caeea0e0bf0313ac710d99cb41b32f56",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "ground_grid_mask.png",
+                                        "hash": "c423d0672421aae010ca988af5ed0711",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-03-31T22:18:12",
+                                "name": "Materials",
+                                "hash": "d56336efee8e15d40efc69a9fb44511a",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "ground_grid.lsmat",
+                                        "hash": "f87cea3293433035077995c7a80387fa",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-31T22:18:12",
+                                        "name": "Graph Matte Shadow.lsmat",
+                                        "hash": "fb59633ed2be23e00c892ac342fa330d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "touch_collision.lsmat",
+                                        "hash": "dad206ce0af43d23ed80d7e468734813",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-03-31T12:41:21",
+                                "name": "EVERGREEN_CARGO_SHIP.obj",
+                                "hash": "828d9a690fec67a63aeb6cbecb2ba02e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-03-31T12:51:00",
+                                "name": "Meshes",
+                                "hash": "e2d4e51e26dd1132bc02b8e47cd840d9",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "touch_collision_cube.mesh",
+                                        "hash": "e9167dc2c6b4be6840fd00390a21b633",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "ground_grid_mesh.mesh",
+                                        "hash": "ca6a55793555b88df4aca4a7329624e5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "plane.mesh",
+                                        "hash": "4649d59d58657e786eebaad58a052d2a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-03-31T12:51:00",
+                                "name": "Scripts",
+                                "hash": "5098426254bdfb37324fd78e94400d81",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "WorldObjectController.js",
+                                        "hash": "b206317794ec9fef285d8ab8c9bd8a27",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "GroundGrid.js",
+                                        "hash": "879cb0642498053c2ba693ec0e360ce7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-25T04:12:38",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-03-25T04:12:38",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "7",
+                                "dependency": "0",
+                                "uid": "1498868158392542:504",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "uid": "1498868868171510:1508",
+                                "fileId": "6",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "9",
+                                "dependency": "0",
+                                "uid": "1498868172316494:515",
+                                "fileId": "3",
+                                "originalId": "42",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "0",
+                                "uid": "1498868172318940:524",
+                                "fileId": "4",
+                                "originalId": "43",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "speakeasy",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "uid": "-1:-1",
+                                "fileId": "34",
+                                "originalId": "18446744073709551615",
+                                "publicId": "628",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "180",
+                                        "dependency": "1",
+                                        "uid": "1588126265136998:230611",
+                                        "fileId": "30",
+                                        "originalId": "31",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "181",
+                                        "dependency": "1",
+                                        "uid": "1588126265152155:230618",
+                                        "fileId": "32",
+                                        "originalId": "33",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "9",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "5",
+                                "dependency": "0",
+                                "uid": "1498868100994851:367",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "10",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "148",
+                                "dependency": "0",
+                                "uid": "1508885097330183:132242",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "plane",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "175",
+                                "dependency": "0",
+                                "uid": "1511403648794329:290802",
+                                "fileId": "15",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "13",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1498868172319414:533",
+                                "fileId": "5",
+                                "originalId": "26",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "176",
+                                "dependency": "0",
+                                "uid": "1511403791848190:291597",
+                                "fileId": "16",
+                                "originalId": "28",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Graph Matte Shadow",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "182",
+                                "dependency": "0",
+                                "uid": "1599160273384481:1180513",
+                                "fileId": "35",
+                                "originalId": "36",
+                                "publicId": "7767",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "EVERGREEN_CARGO_SHIP",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "97",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12487",
+                        "source": "\/Users\/ejwessel\/Desktop\/EVERGREEN_CARGO_SHIP.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Material__64",
+                                    "v": "1617220190888264:213332"
+                                },
+                                {
+                                    "k": "black",
+                                    "v": "1617220190527737:213168"
+                                },
+                                {
+                                    "k": "black_2",
+                                    "v": "1617220190931485:213355"
+                                },
+                                {
+                                    "k": "blue",
+                                    "v": "1617220190709767:213252"
+                                },
+                                {
+                                    "k": "gold",
+                                    "v": "1617220190754651:213271"
+                                },
+                                {
+                                    "k": "green",
+                                    "v": "1617220190572756:213191"
+                                },
+                                {
+                                    "k": "other_red",
+                                    "v": "1617220190837327:213313"
+                                },
+                                {
+                                    "k": "pink",
+                                    "v": "1617220190666396:213233"
+                                },
+                                {
+                                    "k": "red",
+                                    "v": "1617220190620778:213210"
+                                },
+                                {
+                                    "k": "white",
+                                    "v": "1617220190479092:213149"
+                                },
+                                {
+                                    "k": "yellow",
+                                    "v": "1617220190796140:213294"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "ship_1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "183",
+                                        "dependency": "1",
+                                        "uid": "1617220190182220:212963",
+                                        "fileId": "52",
+                                        "originalId": "53",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "184",
+                                        "dependency": "1",
+                                        "uid": "1617220190213917:212981",
+                                        "fileId": "54",
+                                        "originalId": "55",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "185",
+                                        "dependency": "1",
+                                        "uid": "1617220190238442:212999",
+                                        "fileId": "56",
+                                        "originalId": "57",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_4",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "186",
+                                        "dependency": "1",
+                                        "uid": "1617220190266109:213017",
+                                        "fileId": "58",
+                                        "originalId": "59",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_5",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "187",
+                                        "dependency": "1",
+                                        "uid": "1617220190290704:213035",
+                                        "fileId": "60",
+                                        "originalId": "61",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_6",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "188",
+                                        "dependency": "1",
+                                        "uid": "1617220190319635:213049",
+                                        "fileId": "62",
+                                        "originalId": "63",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_7",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "189",
+                                        "dependency": "1",
+                                        "uid": "1617220190348037:213067",
+                                        "fileId": "64",
+                                        "originalId": "65",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_8",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "190",
+                                        "dependency": "1",
+                                        "uid": "1617220190377537:213085",
+                                        "fileId": "66",
+                                        "originalId": "67",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_9",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "191",
+                                        "dependency": "1",
+                                        "uid": "1617220190413493:213103",
+                                        "fileId": "68",
+                                        "originalId": "69",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_10",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "192",
+                                        "dependency": "1",
+                                        "uid": "1617220190445561:213121",
+                                        "fileId": "70",
+                                        "originalId": "71",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ship_11",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "193",
+                                        "dependency": "1",
+                                        "uid": "1617220190471080:213139",
+                                        "fileId": "72",
+                                        "originalId": "73",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BGdGvT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12488",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "white",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "194",
+                                        "dependency": "0",
+                                        "uid": "1617220190479092:213149",
+                                        "fileId": "74",
+                                        "originalId": "75",
+                                        "publicId": "12489",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "black",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "195",
+                                        "dependency": "0",
+                                        "uid": "1617220190527737:213168",
+                                        "fileId": "76",
+                                        "originalId": "77",
+                                        "publicId": "12490",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "green",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "196",
+                                        "dependency": "0",
+                                        "uid": "1617220190572756:213191",
+                                        "fileId": "78",
+                                        "originalId": "79",
+                                        "publicId": "12491",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "red",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "197",
+                                        "dependency": "0",
+                                        "uid": "1617220190620778:213210",
+                                        "fileId": "80",
+                                        "originalId": "81",
+                                        "publicId": "12492",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "pink",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "198",
+                                        "dependency": "0",
+                                        "uid": "1617220190666396:213233",
+                                        "fileId": "82",
+                                        "originalId": "83",
+                                        "publicId": "12493",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "blue",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "199",
+                                        "dependency": "0",
+                                        "uid": "1617220190709767:213252",
+                                        "fileId": "84",
+                                        "originalId": "85",
+                                        "publicId": "12494",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "gold",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "200",
+                                        "dependency": "0",
+                                        "uid": "1617220190754651:213271",
+                                        "fileId": "86",
+                                        "originalId": "87",
+                                        "publicId": "12495",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "yellow",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "201",
+                                        "dependency": "0",
+                                        "uid": "1617220190796140:213294",
+                                        "fileId": "88",
+                                        "originalId": "89",
+                                        "publicId": "12496",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "other_red",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "202",
+                                        "dependency": "0",
+                                        "uid": "1617220190837327:213313",
+                                        "fileId": "90",
+                                        "originalId": "91",
+                                        "publicId": "12497",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Material__64",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "203",
+                                        "dependency": "0",
+                                        "uid": "1617220190888264:213332",
+                                        "fileId": "92",
+                                        "originalId": "93",
+                                        "publicId": "12498",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "black_2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "204",
+                                        "dependency": "0",
+                                        "uid": "1617220190931485:213355",
+                                        "fileId": "94",
+                                        "originalId": "95",
+                                        "publicId": "12499",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "EVERGREEN_CARGO_SHIP",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "205",
+                                "dependency": "1",
+                                "uid": "1617220191115681:213593",
+                                "fileId": "96",
+                                "originalId": "98",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1617220191115681:213593",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1617220190971516:213374"
+                        },
+                        {
+                            "k": [
+                                "ship"
+                            ],
+                            "v": "1617220191007666:213380"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_1"
+                            ],
+                            "v": "1617220191007943:213382"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191008240:213384"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_10"
+                            ],
+                            "v": "1617220191064532:213557"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_10",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191064831:213559"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_11"
+                            ],
+                            "v": "1617220191065918:213571"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_11",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191066197:213573"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_2"
+                            ],
+                            "v": "1617220191051306:213445"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191051765:213447"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_3"
+                            ],
+                            "v": "1617220191053816:213459"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191054471:213461"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_4"
+                            ],
+                            "v": "1617220191056695:213473"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_4",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191057165:213475"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_5"
+                            ],
+                            "v": "1617220191058348:213487"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_5",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191058700:213489"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_6"
+                            ],
+                            "v": "1617220191059978:213501"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_6",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191060324:213503"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_7"
+                            ],
+                            "v": "1617220191061274:213515"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_7",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191061520:213517"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_8"
+                            ],
+                            "v": "1617220191062309:213529"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_8",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191062545:213531"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_9"
+                            ],
+                            "v": "1617220191063323:213543"
+                        },
+                        {
+                            "k": [
+                                "ship",
+                                "ship_9",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617220191063653:213545"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1498868172316494:515",
+                    "v": {
+                        "infos": {
+                            "originalSize": "71161",
+                            "compressedSize": "84856",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "37",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "caeea0e0bf0313ac710d99cb41b32f56",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "48"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1498868172318940:524",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8838",
+                            "compressedSize": "2138",
+                            "originalRAM": "65536",
+                            "compressedRAM": "8192",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "38",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c423d0672421aae010ca988af5ed0711",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "47"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}
